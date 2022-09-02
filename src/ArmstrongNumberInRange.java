@@ -18,7 +18,7 @@ public class ArmstrongNumberInRange {
             }
             if(i==num){
                 if(counter == 0){
-                    System.out.println("armstrong number range" +start+ "and" +end+ " : ");
+                    System.out.println("armstrong number range" +start+ "  and " +end+ " : ");
                 }
                 System.out.println(i + " ");
                 counter++;
